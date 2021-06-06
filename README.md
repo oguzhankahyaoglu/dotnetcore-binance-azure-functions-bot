@@ -1,0 +1,1 @@
+# dotnetcore-binance-azure-functions-bot
